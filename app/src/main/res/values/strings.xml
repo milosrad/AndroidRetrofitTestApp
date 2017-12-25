@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="icao_24">ICAO 24: </string>
+    <string name="callsign">Callsign: </string>
+    <string name="country">Country: </string>
+    <string name="velocity">Velocity (m/s): </string>
+
+</resources>
